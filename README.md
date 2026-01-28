@@ -6,7 +6,6 @@
 
 ### 🔹 What is Git?
 Git is a **distributed version control system** that tracks changes in source code and helps multiple developers collaborate efficiently on a project.
-
 ### 🔹 What is GitHub?
 GitHub is a **cloud-based hosting platform** for Git repositories. It allows developers to store, manage, share, and collaborate on code online.
 
@@ -69,11 +68,8 @@ git push origin main
 git branch -d feature2
 🔁 4️⃣ (B) Compare & Merge on GitHub
 Create a Pull Request on GitHub
-
 Review changes
-
 Merge into main
-
 Pull updates locally:
 
 git pull origin main
@@ -90,42 +86,28 @@ A Git fork is a personal copy of someone else’s repository under your own GitH
 
 🧑‍💻 6️⃣ Push & Create Repository from VS Code
 Open project in VS Code
-
 Run:
-
 npm run build
 Go to Source Control
-
 Initialize repository
-
 Commit & Push
-
 GitHub repo will be created automatically
 
 🌍 7️⃣ Deploy Project on GitHub Pages
 Steps:
-
 Go to Repository Settings
-
-Click Pages
-
+Click Page
 Select:
-
 Branch: main
-
 Folder: /root or /docs
-
 Click Save
 
 🚀 Your project is now live on GitHub Pages!
 
 ⭐ Key Benefits of Git & GitHub
 Version control
-
 Team collaboration
-
 Backup & recovery
-
 Open-source contributions
 
 Easy deployment
