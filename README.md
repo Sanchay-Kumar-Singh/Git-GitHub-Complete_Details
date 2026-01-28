@@ -1,11 +1,5 @@
 <h1># 🚀 Git & GitHub Complete Guide</h1>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="120"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" width="100"/>
-</p>
-
 ---
 
 ## 📌 Overview
